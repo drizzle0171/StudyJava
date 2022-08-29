@@ -3,10 +3,10 @@ package basic;
 public class Number {
 
 	public static void main(String[] args) {
-		// Math ¸ðÀ½Áý!
+		// Math ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½!
 		System.out.println(Math.PI);
-		System.out.println(Math.floor(Math.PI)); // floor - ³»¸²
-		System.out.println(Math.ceil(Math.PI)); // ceil - ¿Ã¸²
+		System.out.println(Math.floor(Math.PI)); // floor - ï¿½ï¿½ï¿½ï¿½
+		System.out.println(Math.ceil(Math.PI)); // ceil - ï¿½Ã¸ï¿½asdfasdf
 		
 	}
 
